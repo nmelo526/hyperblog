@@ -4,4 +4,8 @@ Me gusta el jave
 trabajo con bases de datos
 Exp 2
 Main 1
+<<<<<<< HEAD
 Exp1
+=======
+Main 2
+>>>>>>> 75ec6c7 (Nueva linea main 2 en historia.txt)
